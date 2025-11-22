@@ -41,7 +41,7 @@ Real-world datasets—especially large demographic or government data like U.S. 
 The business need is:
 - a reliable, repeatable, automated process that ensures the dataset is always clean and standardized before use in analytics, reporting, machine learning, or integration pipelines.
 
-⚙️ Tech Stack
+⚙️ **Tech Stack**
 
 MySQL Database
 
