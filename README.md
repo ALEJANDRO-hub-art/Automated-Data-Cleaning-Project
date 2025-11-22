@@ -115,10 +115,10 @@ Reasoning:
 - This is a SQL code that runs automatically whenever a row is INSERTED, UPDATED, or DELETED-without requiring manual execution. These are known as triggers, and they fire in response to INSERT, UPDATE, or DELETE actions. Triggers are commonly used for auditing changes (tracking who modified data and when), blocking unauthorized updates or deletions, and maintaining historical records.
 
 **9. Drop the TRIGGER**
--- As our last step is INSERTING VALUES into the 'us_household_income' Table, the inserting will fail as long as the TRIGGER is active. Thats why we drop the TRIGGER in this step.
+- As our last step is INSERTING VALUES into the 'us_household_income' Table, the inserting will fail as long as the TRIGGER is active. Thats why we drop the TRIGGER in this step.
 
 **10. Insert values into the Table**
--- INSET VALUES into the Table 'us_household_income'. In here we are inserting values in every column of the Table except for the TimeStamp column.
+- INSET VALUES into the Table 'us_household_income'. In here we are inserting values in every column of the Table except for the TimeStamp column.
 
 **11. Validate Insert**
 - Once the trigger was removed, a test was performed and verified if the values in step 10 were inserted into the Table 'us_household_income'.
