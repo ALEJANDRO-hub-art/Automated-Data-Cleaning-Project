@@ -1,4 +1,4 @@
-📊 **Automated Data Cleaning US Household Income Project**
+# 📊 **Automated Data Cleaning US Household Income Project**
 
 
 📘 **Project Overview**
